@@ -10,12 +10,12 @@ We're here to advance the application of gaming skills to real-world problems an
 
 ## Gaming for Enterprise
 
-> "I don't know how to access StarCraft people. No one puts it on their resume."
->
-> Tobi Lutke, CEO, Shopify
+Playing difficult games like StarCraft II or Dark Souls means training problem-solving skills that are valuable for the real world. 
+Building coherent strategies from limited data, adapting to new events at the needed speed, and decomposing your own performance to thrive in environments with low feedback are some of the skills gamers have honed. 
 
-Playing difficult games like StarCraft II or Dark Souls means honing skills like strategic planning, managing incomplete information, and fast adaptation under pressure.
+These decision-making skills are valuable in the real world. They're at the core of some positions in business development or strategy. The challenge is how gamers can transfer these skills to real-world problems and careers. The challenges are both technical and social. 
 
+We're here 
 
 
 
