@@ -10,7 +10,13 @@ We're here to advance the application of gaming skills to real-world problems an
 
 ## Gaming for Enterprise
 
+> "I don't know how to access StarCraft people. No one puts it on their resume."
+>
+> Tobi Lutke, CEO, Shopify
+
 Playing difficult games like StarCraft II or Dark Souls means honing skills like strategic planning, managing incomplete information, and fast adaptation under pressure.
+
+
 
 
 
