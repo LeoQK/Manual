@@ -15,7 +15,7 @@ Building coherent strategies from limited data, adapting to new events at the ne
 
 The decision-making skills that games like StarCraft train are valuable in the real world. Building coherent strategies from limited data and then adapting them as new information becomes available is at the core of positions in business development or strategy. The challenge is how gamers can transfer these skills to real-world problems and careers. 
 
-The challenge of transferrability is both technical and social. It's technical, because games are different from the real-world. Although leading companies have already hired former gamers for their problem-solving skills, the research on skill transfer is still undecided on whether skills learned in video games transfer to the real world. 
+The challenge of transferrability is both technical and social. It's technical, because games are different from the real-world. Although leading companies have already hired former gamers for their problem-solving skills, the research on skill transfer is still undecided on whether skills learned in video games transfer to the real world. And it's social, because as a society we do not appreciate the complexity of video games and the immense skill needed to master them. This means it's difficult to talk about gaming experience in interview situations and find common ground with the interviewer. 
 
 We're here 
 
