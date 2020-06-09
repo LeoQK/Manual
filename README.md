@@ -7,3 +7,11 @@ Video games are considered entertainment technology for consumer play. But in ou
 We're here to advance the application of gaming skills to real-world problems and careers. We collaborate with gamers and organizations to research and advise on the application of gaming skillsets to enterpise.
 
 **Below is a snapshot of our beliefs about the transferability of gaming skills and an outline of the collaboration we aim to build with gamers and organizations.**
+
+## Gaming for Enterprise
+
+
+
+## Collaboration and Coaching
+
+
