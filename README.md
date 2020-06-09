@@ -10,6 +10,8 @@ We're here to advance the application of gaming skills to real-world problems an
 
 ## Gaming for Enterprise
 
+Playing difficult games like StarCraft II or Dark Souls means honing skills like strategic planning, managing incomplete information, and fast adaptation under pressure.
+
 
 
 ## Collaboration and Coaching
