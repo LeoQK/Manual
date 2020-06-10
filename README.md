@@ -8,6 +8,8 @@ We're here to discover how gaming skills can best be applied to real-world probl
 
 We collaborate with gamers and organizations to advance the application of gaming skills to real-world problems and careers. We aim to learn from gamers who have established impactful careers, coach gamers seeking career growth, and work with organizations to help them understand and connect with gaming talent.
 
+If you believe in empowering gaming for enterprise, please connect with us. 
+
 **Below is a snapshot of our beliefs about the transferability of gaming skills and an outline of the collaboration we aim to build with gamers and organizations.**
 
 ## Gaming for Enterprise
