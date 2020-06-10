@@ -6,7 +6,7 @@ Video games are considered entertainment technology for consumer play. But in ou
 
 We're here to discover how gaming skills can best be applied to real-world problems and careers. 
 
-We collaborate with gamers and organizations to advance the application of gaming skills to real-world problems and careers. We aim to learn from gamers who have established impactful careers, coach gamers seeking career growth, and work with organizations to help them understand and connect with gaming talent. 
+We collaborate with gamers and organizations to advance the application of gaming skills to real-world problems and careers. We aim to learn from gamers who have established impactful careers, coach gamers seeking career growth, and work with organizations to help them understand and connect with gaming talent.
 
 **Below is a snapshot of our beliefs about the transferability of gaming skills and an outline of the collaboration we aim to build with gamers and organizations.**
 
