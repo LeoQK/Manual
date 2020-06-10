@@ -2,9 +2,9 @@
 
 ## Why we're here
 
-Video games are considered entertainment technology for consumer play. But in our complex world, games and gamers have vast potential to contribute to enterprise decision-making. We believe that gaming skillsets can be critical assets to organizations in tackling the complex problems of our world.
+Video games are considered entertainment technology for consumer play. But in our complex world, games and gamers have vast potential to contribute to enterprise decision-making. We believe that gaming skillsets can be critical assets to organizations in tackling the complex problems of our world. We're how to discover how gaming skills can best be appled to real-world problems and careers. 
 
-We're here to advance the application of gaming skills to real-world problems and careers. We collaborate with gamers and organizations to research and advise on the application of gaming skillsets to enterpise.
+We collaborate with gamers and organizations to advance the application of gaming skills to real-world problems and careers. We aim to learn from gamers who have established impactful careers, coach gamers seeking career growth, and work with organizations to help them understand and connect with gaming talent. 
 
 **Below is a snapshot of our beliefs about the transferability of gaming skills and an outline of the collaboration we aim to build with gamers and organizations.**
 
