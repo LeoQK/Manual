@@ -1,5 +1,9 @@
 # START HERE
 
+> "I don't know how to access StarCraft people. No one puts it on their resume."
+>
+> Tobi Lutke, CEO, Shopify
+
 ## Why we're here
 
 Video games are considered entertainment technology for consumer play. But in our complex world, games and gamers have vast potential to contribute to enterprise decision-making. We believe that gaming skillsets can be critical assets to organizations in tackling the complex problems of our world. 
