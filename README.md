@@ -20,6 +20,8 @@ If you believe in empowering gaming for enterprise, [connect with us]().
 
 ## Gaming for enterprise
 
+Playing difficult games like StarCraft II or Dark Souls means training problem-solving skills that are valuable in the real world. Building coherent strategies from limited data, adapting to new events at the needed speed, and decomposing your own performance to thrive in environments with low feedback are some of the skills gamers have honed. The challenge is how gamers can transfer these skills to real-world problems and careers. 
+
 There's a default belief in the labor market that strategy games teach skills that can be transferred to real-world careers. A set of games, Chess and Go among them, are considered training grounds for decision-making in a generalized sense. Research on skill transfer does not conclusively back up that skills trained in games can be transferred to other environments. But...
 
 ## Collaboration and coaching
