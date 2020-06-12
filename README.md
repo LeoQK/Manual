@@ -10,11 +10,11 @@ Video games are considered entertainment technology for consumer play. But in ou
 
 **We're here to discover how gaming skills can best be applied to real-world problems and careers.**
 
+If you believe in empowering gaming for enterprise, [connect with us](). 
+
 ### What we do
 
 We collaborate with gamers and organizations to advance the application of gaming skills to real-world problems and careers. We aim to learn from gamers who have established impactful careers, coach gamers seeking career growth and work with organizations to help them understand and connect with gaming talent.
-
-If you believe in empowering gaming for enterprise, [connect with us](). 
 
 **Below is a snapshot of our beliefs about the transferability of gaming skills and an outline of the collaboration we aim to build with gamers and organizations.**
 
@@ -27,11 +27,6 @@ The decision-making skills that games like StarCraft train are valuable in the r
 
 The challenge of transferrability is both technical and social. It's technical, because games are different from the real-world. Although leading companies have already hired former gamers for their problem-solving skills, the research on skill transfer remains undecided on whether skills learned in video games transfer to the real world. And it's social, because as a society we do not appreciate the complexity of games like StarCraft and the immense skill needed to master them. This means it's difficult to talk about gaming experience in interview situations and find common ground with the interviewer. 
 
-We aim to address this challenge in two ways:
-
-* Work with gamers who have established impactful careers to understand how they have applied their gaming skills to the real-world
-
-* Research how developments in enterprise technology by companies like [Improbable]() are making the real world look more like games
 
 ## Collaboration and coaching
 
