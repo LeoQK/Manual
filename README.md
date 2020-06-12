@@ -20,7 +20,7 @@ If you believe in empowering gaming for enterprise, [connect with us]().
 
 ## Gaming for enterprise
 
-There's a default belief in the labor market that games like Chess and Go teach skills that can be transferred to real-world careers. Someone who lists achievements in Chess or Go on their resume does not expect recruiters to ask "The application looks great but what's up with these games?" A set of games, Chess and Go among them, are considered training grounds for decision-making in a generalized sense. Research on skill transfer does not conclusively back up that skills trained in games can be transferred to other environments. But...
+There's a default belief in the labor market that strategy games teach skills that can be transferred to real-world careers. Someone who lists achievements in Chess or Go on their resume does not expect recruiters to ask "The application looks great but what's up with these games?" A set of games, Chess and Go among them, are considered training grounds for decision-making in a generalized sense. Research on skill transfer does not conclusively back up that skills trained in games can be transferred to other environments. But...
 
 ## Collaboration and coaching
 
