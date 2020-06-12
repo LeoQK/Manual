@@ -10,23 +10,17 @@ Video games are considered entertainment technology for consumer play. But in ou
 
 **We're here to discover how gaming skills can best be applied to real-world problems and careers.**
 
-If you believe in empowering gaming for enterprise, [connect with us](). 
-
 ### What we do
 
 We collaborate with gamers and organizations to advance the application of gaming skills to real-world problems and careers. We aim to learn from gamers who have established impactful careers, coach gamers seeking career growth and work with organizations to help them understand and connect with gaming talent.
+
+If you believe in empowering gaming for enterprise, [connect with us](). 
 
 **Below is a snapshot of our beliefs about the transferability of gaming skills and an outline of the collaboration we aim to build with gamers and organizations.**
 
 ## Gaming for enterprise
 
-Playing difficult games like StarCraft II or Dark Souls means training problem-solving skills that are valuable in the real world. 
-Building coherent strategies from limited data, adapting to new events at the needed speed, and decomposing your own performance to thrive in environments with low feedback are some of the skills gamers have honed. 
-
-The decision-making skills that games like StarCraft train are valuable in the real world. Building coherent strategies from limited data and then adapting them as new information becomes available is at the core of positions in business development or strategy. The challenge is how gamers can transfer these skills to real-world problems and careers. 
-
-The challenge of transferrability is both technical and social. It's technical, because games are different from the real-world. Although leading companies have already hired former gamers for their problem-solving skills, the research on skill transfer remains undecided on whether skills learned in video games transfer to the real world. And it's social, because as a society we do not appreciate the complexity of games like StarCraft and the immense skill needed to master them. This means it's difficult to talk about gaming experience in interview situations and find common ground with the interviewer. 
-
+There's a default belief in the labor market that games like Chess and Go teach skills that can be transferred to real-world careers. Someone who lists achievements in Chess or Go on their resume does not expect recruiters to ask "The application looks great but what's up with these games?" A set of games, Chess and Go among them, are considered training grounds for decision-making in a generalized sense. Research on skill transfer does not conclusively back up that skills trained in games can be transferred to other environments. But...
 
 ## Collaboration and coaching
 
