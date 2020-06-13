@@ -27,5 +27,5 @@ Leading organizations have started to hire gamers for their problem-solving skil
 The tools needed to match gamers and organizations are 
 
 * nuanced documentation of the skills that a game like StarCraft II trains
-* clear guidelines on how these skills can be transferred to real-world problems
+* clear guidelines on how gaming skills can be transferred to real-world problems
 * best practices for the presentation and assessment of gaming skills in interviews
