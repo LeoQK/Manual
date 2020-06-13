@@ -29,3 +29,5 @@ The tools needed to match gamers and organizations are:
 * Nuanced documentation of the skills that a game like StarCraft II trains
 * Clear guidelines on how gaming skills can be transferred to real-world problems
 * Best practices for the presentation and assessment of gaming skills in interviews
+
+With Mapcontrol, we aim to build these tools. 
