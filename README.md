@@ -31,3 +31,8 @@ The tools needed to match gamers and organizations are:
 * Best practices for the presentation and assessment of gaming skills in interviews
 
 With Mapcontrol, we aim to build these tools and empower gaming for enterprise.
+
+## Collaboration and coaching
+
+We collaborate with gamers and organizations to advance the application of gaming skills to real-world problems and careers.
+
