@@ -1,6 +1,6 @@
 # Mapcontrol
 
-## The Manual
+## Gaming for enterprise
 
 Mapcontrol advances the application of gaming skills to real-world problems and careers.
 
