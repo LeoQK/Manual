@@ -22,7 +22,7 @@ Below is a snapshot of our beliefs about the transferability of gaming skills an
 
 Playing difficult games like [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) or [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) means training problem-solving skills that are valuable in the real world. Building coherent strategies from limited data, adapting to new events at the needed speed, and decomposing your own performance to thrive in environments with low feedback are some of the skills gamers have honed. The challenge is how gamers can transfer these skills to real-world problems and careers. 
 
-Leading organizations have started to hire gamers for their problem-solving skills. But there exist no tools that would enable the interaction between gamers and organizations to intensify and scale. 
+Leading organizations have started to [hire gamers](https://www.businessinsider.com/retired-gamer-offered-internship-for-past-starcraft-2-performance-2019-10) for their problem-solving skills. But there exist no tools that would enable the interaction between gamers and organizations to intensify and scale. 
 
 The tools needed to match gamers and organizations are:
 
