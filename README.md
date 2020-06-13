@@ -1,4 +1,4 @@
-# Empowering gamers for enterprise
+# Gaming For Enterprise
 
 > "I don't know how to access StarCraft people. No one puts it on their resume."
 >
