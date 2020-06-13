@@ -16,7 +16,7 @@ We collaborate with gamers and organizations to advance the application of gamin
 
 If you believe in empowering gaming for enterprise, [connect with us](). 
 
-**Below is a snapshot of our beliefs about the transferability of gaming skills and an outline of the collaboration we aim to build with gamers and organizations.**
+Below is a snapshot of our beliefs about the transferability of gaming skills and an outline of the collaboration we aim to build with gamers and organizations.
 
 ## Gaming for enterprise
 
