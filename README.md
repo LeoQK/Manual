@@ -1,8 +1,8 @@
 # Gaming For Enterprise
 
-> "I don't know how to access StarCraft people. No one puts it on their resume."
->
-> Tobi Lutke, CEO, Shopify
+<p align="center">
+<img width="354" height="419.5" src="assets/mapcontrol-stack.PNG"></img>
+</p>
 
 ## Why we're here
 
@@ -18,11 +18,12 @@ If you believe in empowering gaming for enterprise, [email us]() or [connect on 
 
 Below is a snapshot of our beliefs about the transferability of gaming skills and an outline of the collaboration we aim to build with gamers and organizations.
 
-<p align="center">
-<img width="354" height="419.5" src="assets/mapcontrol-stack.PNG"></img>
-</p>
 
 ## Gaming for enterprise
+
+> "I don't know how to access StarCraft people. No one puts it on their resume."
+>
+> Tobi Lutke, CEO, Shopify
 
 Playing difficult games like [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) or [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) means training problem-solving skills that are valuable in the real world. Building coherent strategies from limited data, adapting to new events at the needed speed, and decomposing your own performance to thrive in environments with low feedback are some of the skills gamers have honed. The challenge is how gamers can transfer these skills to real-world problems and careers. 
 
