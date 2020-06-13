@@ -1,4 +1,8 @@
-# Gaming For Enterprise
+# Mapcontrol
+
+## The Manual
+
+Mapcontrol collaborates with gamers and organizations to advance the application of gaming skills to real-world problems and careers.
 
 <p align="center">
 <img width="354" height="419.5" src="assets/mapcontrol-stack.PNG"></img>
