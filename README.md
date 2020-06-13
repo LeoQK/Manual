@@ -18,7 +18,7 @@ If you believe in empowering gaming for enterprise, [email us]() or [connect on 
 
 Below is a snapshot of our beliefs about the transferability of gaming skills and an outline of the collaboration we aim to build with gamers and organizations.
 
-<img align="center" width=354" height="419.5" src="assets/mapcontrol-stack.PNG"></img>
+<img align="center" width="354" height="419.5" src="assets/mapcontrol-stack.PNG"></img>
 
 ## Gaming for enterprise
 
