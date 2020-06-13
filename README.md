@@ -24,8 +24,8 @@ Playing difficult games like StarCraft II or Dark Souls means training problem-s
 
 Leading organizations have started to hire gamers for their problem-solving skills. But there exist no tools that would enable the interaction between gamers and organizations to intensify and scale. 
 
-The tools needed to match gamers and organizations are 
+The tools needed to match gamers and organizations are:
 
-* nuanced documentation of the skills that a game like StarCraft II trains
-* clear guidelines on how gaming skills can be transferred to real-world problems
-* best practices for the presentation and assessment of gaming skills in interviews
+* Nuanced documentation of the skills that a game like StarCraft II trains
+* Clear guidelines on how gaming skills can be transferred to real-world problems
+* Best practices for the presentation and assessment of gaming skills in interviews
