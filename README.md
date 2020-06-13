@@ -1,4 +1,4 @@
-# START HERE
+# Empowering gamers for enterprise
 
 > "I don't know how to access StarCraft people. No one puts it on their resume."
 >
