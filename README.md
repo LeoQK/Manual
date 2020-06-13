@@ -34,7 +34,9 @@ With Mapcontrol, we aim to build these tools and empower gaming for enterprise.
 
 ## Collaboration and coaching
 
-If you're a gamer and excited about connecting your gaming experience to your career, or you're working for an organization interested in accessing the groundbreaking talent of gamers, [connect with us](). 
+If you're a gamer and excited about connecting your gaming experience to your career, or you're working for an organization interested in accessing the groundbreaking talent of gamers, [connect with us]().
+
+To empower gaming for enterprise, we aim to collaborate with gamers 
 
 ### For gamers
 
