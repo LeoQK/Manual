@@ -36,8 +36,6 @@ With Mapcontrol, we aim to build these tools and empower gaming for enterprise.
 
 If you're a gamer and excited about connecting your gaming experience to your career, or you're working for an organization interested in accessing the groundbreaking talent of gamers, [connect with us]().
 
-To empower gaming for enterprise, we aim to learn from gamers who have established impactful careers and work with organizations on how gaming talent can advance their businesses. We also coach gamers on how they can grow their careers.
-
 ### For gamers
 
 ### For organizations
