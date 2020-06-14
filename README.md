@@ -34,8 +34,6 @@ As we engage with the gaming community and organizations, we will release resear
 
 Gaming is all about community. So is gaming for enterprise. We want to collaborate with and learn from gamers and organizations to advance the application of gaming skills to enterprise. 
 
-Connect with us on Discord, or contact us via email. We 
-
 ### For gamers
 
 ### For organizations
