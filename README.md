@@ -14,7 +14,7 @@ Mapcontrol collaborates with gamers and organizations to advance the application
 
 ### Core Belief
 
----
+--
 
 Video games are considered entertainment technology for consumer play. But in our complex world, games and gamers have vast potential to contribute to enterprise decision-making. We believe that gaming skillsets can be critical assets to organizations in tackling the complex problems of our world. 
 
