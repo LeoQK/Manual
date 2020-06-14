@@ -34,7 +34,7 @@ As we engage with the gaming community and organizations, we will release resear
 
 ## Collaboration and Coaching
 
-Gaming is all about community. So is gaming for enterprise. We want to collaborate with and learn from gamers and organizations to advance the application of gaming skills to enterprise. 
+Gaming is all about community. So is gaming for enterprise. We collaborate with and learn from gamers and organizations to advance the application of gaming skills to enterprise. 
 
 ### For Gamers
 
