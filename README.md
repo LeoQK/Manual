@@ -12,11 +12,11 @@ Mapcontrol advances the application of gaming skills to real-world problems and 
 
 Below is an overview of our core belief about gaming talent and how that belief informs what we do.
 
-### Core Belief
+### Core Belief - Gaming Talent is a Hidden Asset in Today's Complex World
 
 Video games are considered entertainment technology for consumer play. But in our complex world, games and gamers have vast potential to contribute to enterprise decision-making. We believe that gaming skillsets can be critical assets to organizations in tackling the complex problems of our world. 
 
-### What We Do
+### What We Do - Empowering Gaming for Enterprise
 
 **We're here to discover how gaming skills can best be applied to real-world problems and careers.**
 
