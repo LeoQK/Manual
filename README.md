@@ -20,7 +20,7 @@ Video games are considered entertainment technology for consumer play. But in ou
 
 **We research and provide coaching on the application of gaming skillsets to real-world problems and careers.**
 
-Leading organizations have started to [hire gamers](https://www.businessinsider.com/retired-gamer-offered-internship-for-past-starcraft-2-performance-2019-10) for their problem-solving skills. But there exist no tools that would enable the interaction between gamers and organizations to intensify and scale. With Mapcontrol, we aim to build these tools and empower gaming for enterprise. We research and provide coaching on the skills that games like StarCraft train, how gaming skills can be transferred to real-world problems, and how gaming skills can best be presented and assessed in interview situations.
+Leading organizations have started to [hire gamers](https://www.businessinsider.com/retired-gamer-offered-internship-for-past-starcraft-2-performance-2019-10) for their problem-solving skills. But there exist no tools that would enable the interaction between gamers and organizations to intensify and scale. With Mapcontrol, we aim to build these tools and empower gaming for enterprise. We research and provide coaching on the skills that games like StarCraft train, how gaming skills can be transferred to real-world problems, and how they can best be presented and assessed in interview situations.
 
 ## Collaboration and Coaching
 
