@@ -36,8 +36,10 @@ As we engage with the gaming community and organizations, we will release resear
 
 Gaming is all about community. So is gaming for enterprise. We want to collaborate with and learn from gamers and organizations to advance the application of gaming skills to enterprise. 
 
-### For gamers
+### For Gamers
 
-### For organizations
+We want to learn from your experience, whether in mastering difficult games, or building impactful careers. 
+
+### For Organizations
 
 
