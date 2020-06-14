@@ -30,10 +30,6 @@ With Mapcontrol, we aim to build these tools and empower gaming for enterprise:
 * **Skill transferability** - Clear guidelines on how gaming skills can be transferred to real-world problems
 * **Presentation and assessment** - Best practices for the presentation and assessment of gaming skills in interviews
 
-### Where We're Going
-
-As we engage with the gaming community and organizations, we will release research on gaming skills, skill transferability, and presentation and assessment. We also strive to apply our knowledge to coach gamers seeking career growth.
-
 ## Collaboration and Coaching
 
 Gaming is all about community. So is gaming for enterprise. We collaborate with and learn from gamers and organizations to advance the application of gaming skills to enterprise. 
