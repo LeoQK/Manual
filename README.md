@@ -24,7 +24,7 @@ Leading organizations have started to [hire gamers](https://www.businessinsider.
 
 ## Collaboration and Coaching
 
-Gaming is all about community. So is gaming for enterprise. Whether you're a gamer excited about applying your gaming skills to your career, or you're working for an organization excited about the potential of gaming talent, please [connect]() with us. 
+Gaming is all about community. So is gaming for enterprise. Whether you're a gamer excited about applying your gaming skills to your career, or you're working for an organization excited about the potential of gaming talent, [please connect with us](). 
 
 ### For Gamers
 
