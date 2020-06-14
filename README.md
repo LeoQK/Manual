@@ -14,13 +14,13 @@ Mapcontrol advances the application of gaming skills to real-world problems and 
 
 **We believe that gaming skillsets can be critical assets to organizations in tackling the complex problems of our world.**
 
-Video games are considered entertainment technology for consumer play. But in our complex world, games and gamers have vast potential to contribute to enterprise decision-making. Games like [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) or [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) train problem-solving skills that are valuable in the real world. Building coherent strategies from limited data, adapting to new events at the needed speed, and decomposing your own performance to thrive in environments with low feedback are some of the skills gamers have honed. The challenge is how gamers can transfer these skills to real-world problems and careers.
+Video games are considered entertainment technology for consumer play. But in our complex world, games and gamers have vast potential to contribute to enterprise decision-making. Games like [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) or [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) train problem-solving skills that are valuable in the real world. Building coherent strategies from limited data, adapting to new events at the needed speed, and decomposing your own performance to thrive in environments with low feedback are some of the skills gamers have honed. 
 
 ### What We Do
 
 **We research and provide coaching on the application of gaming skillsets to real-world problems and careers.**
 
-Leading organizations have started to [hire gamers](https://www.businessinsider.com/retired-gamer-offered-internship-for-past-starcraft-2-performance-2019-10) for their problem-solving skills. But there exist no tools that would enable the interaction between gamers and organizations to intensify and scale. With Mapcontrol, we aim to build these tools and empower gaming for enterprise. We research the skills that games like StarCraft train, how gaming skills can be transferred to real-world problems, and how gaming skills can best be presented and assessed in interview situations. We also coach gamers on how to achieve career growth.
+Leading organizations have started to [hire gamers](https://www.businessinsider.com/retired-gamer-offered-internship-for-past-starcraft-2-performance-2019-10) for their problem-solving skills. But there exist no tools that would enable the interaction between gamers and organizations to intensify and scale. With Mapcontrol, we aim to build these tools and empower gaming for enterprise. We research and provide coaching on the skills that games like StarCraft train, how gaming skills can be transferred to real-world problems, and how gaming skills can best be presented and assessed in interview situations.
 
 ## Collaboration and Coaching
 
