@@ -28,7 +28,7 @@ With Mapcontrol, we aim to build these tools and empower gaming for enterprise:
 
 ## Collaboration and Coaching
 
-Gaming is about community. So is gaming for enterprise. We want to collaborate with and learn from gamers and organizations to advance the application of gaming skills to enterprise. 
+Gaming is all about community. So is gaming for enterprise. We want to collaborate with and learn from gamers and organizations to advance the application of gaming skills to enterprise. 
 
 Whether 
 
