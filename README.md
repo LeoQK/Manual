@@ -16,7 +16,7 @@ Video games are considered entertainment technology for consumer play. But in ou
 
 Playing difficult games like [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) or [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) means training problem-solving skills that are valuable in the real world. Building coherent strategies from limited data, adapting to new events at the needed speed, and decomposing your own performance to thrive in environments with low feedback are some of the skills gamers have honed. The challenge is how gamers can transfer these skills to real-world problems and careers.
 
-### Collaboration and Coaching
+### What We Do
 
 Leading organizations have started to [hire gamers](https://www.businessinsider.com/retired-gamer-offered-internship-for-past-starcraft-2-performance-2019-10) for their problem-solving skills. But there exist no tools that would enable the interaction between gamers and organizations to intensify and scale. 
 
@@ -26,7 +26,7 @@ With Mapcontrol, we aim to build these tools and empower gaming for enterprise:
 * **Skill transferability** - Clear guidelines on how gaming skills can be transferred to real-world problems
 * **Presentation and assessment** - Best practices for the presentation and assessment of gaming skills in interviews
 
-## Contribute
+## Collaboration and Coaching
 
 If you're a gamer and excited about connecting your gaming experience to your career, or you're working for an organization interested in accessing the groundbreaking talent of gamers, [connect with us]().
 
