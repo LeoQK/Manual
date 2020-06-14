@@ -24,12 +24,22 @@ Leading organizations have started to [hire gamers](https://www.businessinsider.
 
 ## Collaboration and Coaching
 
-Gaming is all about community. So is gaming for enterprise. Wehther you're a gamer excited about applying your gaming skills to your career, or you're working for an organization excited about the potential of gaming talent, please connect with us.
+Gaming is all about community. So is gaming for enterprise.
+
+Wehther you're a gamer excited about applying your gaming skills to your career, or you're working for an organization excited about the potential of gaming talent, please [connect]() with us. 
 
 ### For Gamers
 
-We want to learn from your experience, whether in mastering difficult games, or building impactful careers. 
+We want to learn from your experience, whether in mastering difficult games, or building impactful careers.
 
 ### For Organizations
+
+## About
+
+We're a small team with backgrounds in engineering and strategy. We met as students at Johns Hopkins University, where we developed and taught a course on decision-making based on the real-time strategy game StarCraft II and other game-like scenarios for over two years. Our mission was to train early career professionals in decision-making in a complex world. We empowered decision-makers with games. Now we are using our experience to empower gaming for enterprise.
+
+
+
+
 
 
