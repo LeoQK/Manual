@@ -14,14 +14,9 @@ Below is an overview of our core belief about gaming talent and how that belief 
 
 ### Core Belief
 
-Our core belief is that gaming talent is a hidden asset in today's complex world
-
 Video games are considered entertainment technology for consumer play. But in our complex world, games and gamers have vast potential to contribute to enterprise decision-making. We believe that gaming skillsets can be critical assets to organizations in tackling the complex problems of our world. 
 
-Playing difficult games like [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) or [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) means training problem-solving skills that are valuable in the real world. Building coherent strategies from limited data, adapting to new events at the needed speed, and decomposing your own performance to thrive in environments with low feedback are some of the skills gamers have honed.
-
-The challenge is how gamers can transfer these skills to real-world problems and careers. 
-
+Playing difficult games like [StarCraft II](https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty) or [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) means training problem-solving skills that are valuable in the real world. Building coherent strategies from limited data, adapting to new events at the needed speed, and decomposing your own performance to thrive in environments with low feedback are some of the skills gamers have honed. The challenge is how gamers can transfer these skills to real-world problems and careers.
 
 ### What We Do - Empowering Gaming for Enterprise
 
