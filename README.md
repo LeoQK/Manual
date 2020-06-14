@@ -10,6 +10,8 @@ Mapcontrol advances the application of gaming skills to real-world problems and 
 
 ## How It Works
 
+Mapcontrol collaborates with gamers and organizations to advance the application of gaming skills to enterprise.
+
 ### Core Belief
 
 Video games are considered entertainment technology for consumer play. But in our complex world, games and gamers have vast potential to contribute to enterprise decision-making. We believe that gaming skillsets can be critical assets to organizations in tackling the complex problems of our world. 
