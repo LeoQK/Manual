@@ -5,7 +5,7 @@
 Mapcontrol advances the application of gaming skills to real-world problems and careers. This repository is where we document our [beliefs]() about gaming talent and how we [work]() to empower this talent for enterprise. Here, we also explain our [collaboration]() with gamers and organizations to discover how gaming skillsets can best be transferred to our complex world.
 
 <p align="center">
-<img src="assets/mapcontrol_stack_full.PNG"></img>
+<img src="assets/mapcontrol_stack_full.png"></img>
 </p>
 
 ## How It Works
