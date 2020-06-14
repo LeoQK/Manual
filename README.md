@@ -36,7 +36,7 @@ We want to learn from your experience, whether in mastering difficult games, or 
 
 ## About
 
-We met as students at Johns Hopkins University, where we developed and taught a course on decision-making based on the real-time strategy game StarCraft II and other game-like scenarios for over two years. We empowered decision-makers with games. Now we are using our experience to empower gaming for enterprise.
+Our team met as students at Johns Hopkins University, where we developed and taught a course on decision-making based on the real-time strategy game StarCraft II and other game-like scenarios for over two years. We empowered decision-makers with games. Now we are using our experience to empower gaming for enterprise.
 
 
 
