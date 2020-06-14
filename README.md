@@ -1,4 +1,4 @@
-# Mapcontrol
+# Mapcontrol - Gaming for enterprise
 
 ## Gaming for enterprise
 
