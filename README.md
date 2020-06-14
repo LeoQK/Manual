@@ -22,9 +22,9 @@ Leading organizations have started to [hire gamers](https://www.businessinsider.
 
 The tools needed to match gamers and organizations are:
 
-* Nuanced documentation of the skills that a game like StarCraft II trains
-* Clear guidelines on how gaming skills can be transferred to real-world problems
-* Best practices for the presentation and assessment of gaming skills in interviews
+* **Documentation of gaming skills** - nuanced documentation of the skills that a game like StarCraft II trains
+* **Guidelines on skill transferability** - Clear guidelines on how gaming skills can be transferred to real-world problems
+* **Best practices for assessment** - Best practices for the presentation and assessment of gaming skills in interviews
 
 With Mapcontrol, we aim to build these tools and empower gaming for enterprise.
 
