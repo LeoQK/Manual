@@ -30,6 +30,8 @@ With Mapcontrol, we aim to build these tools and empower gaming for enterprise:
 
 As we engage with the gaming community and organizations, we will release research on gaming skills, skill transferability, and presentation and assessment. We also strive to apply our knowledge to coach gamers seeking career growth.
 
+We're currently focused on learning from gamers who have established impactful careers and surveying how games like StarCraft II have been applied in enterprise contexts.
+
 ## Collaboration and Coaching
 
 Gaming is all about community. So is gaming for enterprise. We want to collaborate with and learn from gamers and organizations to advance the application of gaming skills to enterprise. 
