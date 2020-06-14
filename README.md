@@ -1,8 +1,8 @@
-# Mapcontrol
+# Mapcontrol - Gaming for Enterprise
 
-## Gaming for Enterprise
+## This Repository
 
-Mapcontrol advances the application of gaming skills to real-world problems and careers. We collaborate with gamers and organizations to discover how gaming skills can best transfered to our complex world. We're here to learn from gamers who have established impactful careers and work with organizations to help them understand and connect with gaming talent.
+Mapcontrol advances the application of gaming skills to real-world problems and careers. This repository lays out how we aim to collaborate with gamers and organizations to discover how gaming skills can best transfered to our complex world. We're here to learn from gamers who have established impactful careers and work with organizations to help them understand and connect with gaming talent.
 
 <p align="center">
 <img width="354" height="419.5" src="assets/mapcontrol-stack.PNG"></img>
