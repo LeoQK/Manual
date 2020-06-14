@@ -20,7 +20,7 @@ Video games are considered entertainment technology for consumer play. But in ou
 
 ### What We Do
 
-**We research the application of gaming skills to real-world problems and careers. We use our research to coach gamers seeking career growth.**
+**We research and provide coaching on the application of gaming skills to real-world problems and careers.**
 
 Leading organizations have started to [hire gamers](https://www.businessinsider.com/retired-gamer-offered-internship-for-past-starcraft-2-performance-2019-10) for their problem-solving skills. But there exist no tools that would enable the interaction between gamers and organizations to intensify and scale. 
 
