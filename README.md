@@ -2,7 +2,7 @@
 
 ## This Repository
 
-Mapcontrol advances the application of gaming skills to real-world problems and careers. This repository is where we document our [beliefs](https://github.com/Mapcontrol/Manual/blob/master/README.md#core-belief) about gaming talent and how we [work](https://github.com/Mapcontrol/Manual/blob/master/README.md#what-we-do) to empower this talent for enterprise. Here, we also explain how we [collaborate]() with gamers and organizations to discover how gaming skillsets can best be transferred to our complex world.
+Mapcontrol advances the application of gaming skills to real-world problems and careers. This repository is where we document our [beliefs](https://github.com/Mapcontrol/Manual/blob/master/README.md#core-belief) about gaming talent and how we [work](https://github.com/Mapcontrol/Manual/blob/master/README.md#what-we-do) to empower this talent for enterprise. Here, we also explain how we [collaborate](https://github.com/Mapcontrol/Manual/blob/master/README.md#collaboration-and-coaching) with gamers and organizations to discover how gaming skillsets can best be transferred to our complex world.
 
 <p align="center">
 <img src="assets/mapcontrol_stack_full.png"></img>
