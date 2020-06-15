@@ -30,11 +30,13 @@ Gaming is all about community. So is gaming for enterprise. Whether you're a gam
 
 We want to learn from your experience, whether in mastering difficult games, or building impactful careers. And we want to help you better understand the value of your gaming skills. 
 
-Connect with us on Discord or shoot us an email and we'd be thrilled to start a conversation.
+Connect with us on [Discord]() or shoot us an [email]() and we'd be thrilled to start a conversation.
 
 ### For Organizations
 
-We want to learn from you about 
+We want to learn from you about your talent needs. And we want to help you understand the immense value that gaming skillsets can bring to your organization.
+
+Shoot us an [email]() or connect with us on Discord]() and we'd be thrilled to start a conversation.
 
 ## About
 
