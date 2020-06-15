@@ -26,13 +26,15 @@ Leading organizations have started to [hire gamers](https://www.businessinsider.
 
 Gaming is all about community. So is gaming for enterprise. Whether you're a gamer excited about applying your gaming skills to your career, or you're working for an organization excited about the potential of gaming talent, we want to work with you.
 
-Please [connect with us]() to 
-
 ### For Gamers
 
-We want to learn from your experience, whether in mastering difficult games, or building impactful careers.
+We want to learn from your experience, whether in mastering difficult games, or building impactful careers. And we want to help you better understand the value of your gaming skills. 
+
+Connect with us on Discord or shoot us an email and we'd be thrilled to start a conversation.
 
 ### For Organizations
+
+We want to learn from you about 
 
 ## About
 
