@@ -30,7 +30,7 @@ Connect with us on [Discord]() or shoot us an [email]() and we'd be thrilled to 
 
 ## About
 
-Our team met as students at Johns Hopkins University, where we developed and taught a course on decision-making based on the real-time strategy game StarCraft II and other game-like scenarios for over two years. We empowered decision-makers with games. Now we are using our experience to empower gaming for enterprise.
+We're a small team with backgrounds in engineering and strategy. We met as students at Johns Hopkins University, where we developed and taught a course on decision-making based on the real-time strategy game StarCraft II for over two years. Our mission was to train early career professionals in decision-making in a complex world. We empowered decision-makers with games. Now we are using our experience to empower games and gamers for enterprise.
 
 
 
