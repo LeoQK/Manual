@@ -28,14 +28,6 @@ Gaming is all about community. So is gaming for enterprise. Whether you're a gam
 
 Connect with us on [Discord]() or shoot us an [email]() and we'd be thrilled to start a conversation.
 
-### For Gamers
-
-We want to learn from your experience, whether in mastering difficult games, or building impactful careers. And we want to help you better understand the value of your gaming skills. 
-
-### For Organizations
-
-We want to learn from you about your talent needs. And we want to help you understand the immense value that gaming skillsets can bring to your organization.
-
 ## About
 
 Our team met as students at Johns Hopkins University, where we developed and taught a course on decision-making based on the real-time strategy game StarCraft II and other game-like scenarios for over two years. We empowered decision-makers with games. Now we are using our experience to empower gaming for enterprise.
