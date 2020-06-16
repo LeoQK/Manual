@@ -28,7 +28,7 @@ Gaming is all about community. So is gaming for enterprise. Whether you're a gam
 
 We aim to help you better understand the value of gaming skillsets and how to bring them into enterpise.
 
-Connect with us on [Discord]() or shoot us an [email](mailto:hi@mapcontrol.io) and we'd be thrilled to start a conversation.
+Connect with us on [Discord](https://discord.gg/Cz8XszM) or shoot us an [email](mailto:hi@mapcontrol.io) and we'd be thrilled to start a conversation.
 
 ## About
 
@@ -36,7 +36,7 @@ We're a small team with backgrounds in engineering and strategy. We met as stude
 
 ### Contact
 
-[hi@mapcontrol.io](mailto:hi@mapcontrol.io) | [Discord]()
+[hi@mapcontrol.io](mailto:hi@mapcontrol.io) | [Discord](https://discord.gg/Cz8XszM)
 
 
 
