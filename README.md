@@ -26,7 +26,9 @@ Leading organizations have started to [hire gamers](https://www.businessinsider.
 
 Gaming is all about community. So is gaming for enterprise. Whether you're a gamer excited about applying your gaming skills to your career, or you're working for an organization excited about the potential of gaming talent, we want to work with you.
 
-Connect with us on [Discord]() or shoot us an [email]() and we'd be thrilled to start a conversation.
+We aim to help you better understand the value of gaming skillsets and how to bring them into enterpise.
+
+Connect with us on [Discord]() or shoot us an [email](mailto:hi@mapcontrol.io) and we'd be thrilled to start a conversation.
 
 ## About
 
