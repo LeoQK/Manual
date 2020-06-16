@@ -34,7 +34,7 @@ We're a small team with backgrounds in engineering and strategy. We met as stude
 
 ### Contact
 
-[hi@mapcontrol.io]() | [Discord]()
+[hi@mapcontrol.io](hi@mapcontrol.io) | [Discord]()
 
 
 
